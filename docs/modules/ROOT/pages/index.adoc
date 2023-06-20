@@ -1,4 +1,4 @@
-= Welcome to AstroNuts!
+= Welcome to Astronuts Docs!
 :navtitle: Welcome
 
 This is the automatic start page for AstroNuts
