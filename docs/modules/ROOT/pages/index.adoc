@@ -1,0 +1,4 @@
+= Welcome to AstroNuts!
+:navtitle: Welcome
+
+This is the automatic start page for AstroNuts
