@@ -1,0 +1,25 @@
+name: Documentation Build
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Docs Build
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.ANTORA_ACCESS_TOKEN }}
+          script: |
+            github.rest.actions.createWorkflowDispatch({
+              owner: 'astronuts-app',
+              repo: 'astronuts-public-docs-build',
+              workflow_id: 'build.yml',
+              ref: 'main'
+            })
