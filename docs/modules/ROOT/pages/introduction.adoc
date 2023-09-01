@@ -1,7 +1,7 @@
 = What's Astronuts
 :navtitle: Introduction
 
-Astronuts is a AI augmented software engineering platform that aims at revolutionizing DevEx (Developer Experience).
+Astronuts is an AI augmented software engineering platform that aims at revolutionising DevEx (Developer Experience).
 It seamlessly connects all your favorite tools like Slack, GitHub, Jira (and many more) and helps build rockstar engineering teams.
 
 Our goal is to take care of all the hard parts of software engineering while enabling you to remain focussed on shipping high quality software consistently.
