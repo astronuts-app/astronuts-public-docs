@@ -1,6 +1,6 @@
 * xref:introduction.adoc[]
 * xref:privacy.adoc[]
-* xref:customer-support.adoc[]
+* xref:support.adoc[]
 // * AsciiDoc Reference
 // ** xref:inline-text-formatting.adoc[]
 // ** xref:special-characters.adoc[]
