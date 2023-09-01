@@ -1,4 +1,4 @@
 = Support
 :navtitle: Support
 
-We are here to help. To obtain assistance or support with Astronuts, please mailto:join@discuss.example.org[email] us.
+We are here to help. To obtain assistance or support with Astronuts, please mailto:support@astronuts.io.org[email] us.
