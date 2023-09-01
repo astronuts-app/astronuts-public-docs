@@ -1,4 +1,10 @@
-= Welcome to Astronuts Docs!
+= Astronuts Docs
 :navtitle: Welcome
 
-This is the automatic start page for AstroNuts
+== Help for wherever you are on your Astronuts journey
+
+Learn how to get started with Astronuts, onboard your tools and team members and start a bold and exciting journey towards engineering nirvana.
+
+We continue to add content aggressively, and if you would like to suggest content updates, please drop an email to support@astronuts.io.
+
+Welcome aboard!
