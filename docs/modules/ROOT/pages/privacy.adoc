@@ -45,7 +45,7 @@ Data that you provide, such as name, email and order processing data is retained
 
 == How to request access to your data, or delete your data entirely?
 
-You can request access to your data, or delete it from our systems completely by sending an email support@astronuts.io or by post: General Counsel, Astronuts Inc., 78 Sw 7th Floor, Miami, FL 33130, USA.
+You can request access to your data, or delete it from our systems completely by sending an email support@astronuts.io or by post: General Counsel, Astronuts Inc., 2261 Market Street STE 10150, San Francisco, CA 94114, USA.
 
 
 == Information About Our Customers’ users
@@ -209,7 +209,7 @@ You have the right to opt-out of any sales, as defined by the CCPA, of Personal 
 
 == EXERCISING YOUR RIGHTS
 
-To exercise your access, data portability, and deletion or do not sell opt-out rights described above, you may submit a verifiable consumer request by clicking on this form, or writing an email at support@astronuts.io or by post: General Counsel, Astronuts Inc. 78 Sw 7th Floor, Miami, FL 33130, USA.
+To exercise your access, data portability, and deletion or do not sell opt-out rights described above, you may submit a verifiable consumer request by clicking on this form, or writing an email at support@astronuts.io or by post: General Counsel, Astronuts Inc. 2261 Market Street STE 10150, San Francisco, CA 94114, USA.
 
 
 == NON-DISCRIMINATION
